@@ -1,6 +1,4 @@
 local/
-log/
-deploy/
-*.txt
-*.db
+log/*
+target/*
 *.log
